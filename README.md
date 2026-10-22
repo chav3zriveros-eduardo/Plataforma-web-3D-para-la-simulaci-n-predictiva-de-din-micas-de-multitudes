@@ -1,1 +1,1 @@
-# Plataforma-web-3D-para-la-simulaci-n-predictiva-de-din-micas-de-multitudes
+# Plataforma web 3D para la simulación predictiva de dinámicas de multitudes
